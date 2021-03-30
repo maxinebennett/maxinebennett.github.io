@@ -64,6 +64,7 @@ div {
 
 #content-about {
     text-align: center;
+    background-color: #EFE9DC;
 }
 
 #info-about {
@@ -72,18 +73,41 @@ div {
     height: 140px;
     width: 500px;
     text-align: center;
-    background-color: #EFE9DC;
     background-color opacity: 50%;
        
 }
 #image-about {
-    padding-left: 490px;
-    background-color:#EFE9DC;
+    padding-left: 5px;
+}
+
+#info-contact1{
+    text-align: center;
     
     
 }
+#info-contact2{
+    text-align: center;
+    
+    
+}
+#info-contact3{
+    text-align: center;
+    
+}
 
+#image-contact {
+    padding-left: 490px;
+    
+}
 
+#content-projects {
+    text-align: center;
+    background-color: #EFE9DC;
+}
+
+#project-image1 {
+    padding-bottom: 200px;
+}
 .me{
     color: #6097AF;
     font-size:20px;
