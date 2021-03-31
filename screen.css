@@ -4,9 +4,6 @@ body {
   font-family: 'Abril Fatface', cursive;
 }
 
-div {
-    outline: 1px solid black;
-}
 #container {
      margin: auto;
      max-width: auto;
